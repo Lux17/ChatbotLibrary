@@ -20,7 +20,7 @@ Dalam project ini, kita akan menggunakan Watson assistant dan Watson discovery u
 
 Dalam project ini kita akan : 
 - Menggunakan virtual assistant dan watson discovery
-- Memasukan intent dan dialog ke dalam chatbot
+- Memasukan intent dan file ke dalam chatbot
 - Melakukan integrasi assistant ke website yang telah dibuat
 - Melakukan uji hasil dari project ini
 - Menampilkan hasil chatbot
