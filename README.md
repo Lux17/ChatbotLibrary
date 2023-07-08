@@ -27,8 +27,7 @@ Dalam notebook ini kita akan :
 - Menampilkan hasil prediksi
 
 # Alur 
-![Diagram ]([https://github.com/arqualian/image-classification-Capstone-Project/assets/60522938/6ac9d586-95fd-4900-b3c4-ab0fce5672d8])
-
+![enhance-customer-helpdesks-smart-document-understanding-assistant-search-skill (1)](https://github.com/Lux17/ChatbotLibrary/assets/59023470/c75cdd57-aadf-4796-9a74-79502cce31f2)
 
 1. Buat Service Watson Assistant & Discovery.
 2. Konfigurasi Watson Discovery.
