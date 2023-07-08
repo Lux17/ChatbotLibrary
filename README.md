@@ -1,4 +1,4 @@
-# Chatbot Library Virtual Assistant UMC dengan Watson assistant
+# Chatbot Library Virtual Assistant UMC 
 Projek Capstone Merdeka Belajar Kampus Merdeka (MBKM) Infinite Learning Indonesia
 
 ------------------------------------------------------------------------------
@@ -11,7 +11,7 @@ Projek Capstone Merdeka Belajar Kampus Merdeka (MBKM) Infinite Learning Indonesi
 | Mentor | Agistira Lamunde | 
 | Project Name         |Chatbot Library Assistant Universitas Muhammadiyah Cirebon |
 | Pattern              | Enhance customer helpdesks with Smart Document Understanding using the Watson Assistant search skill (https://developer.ibm.com/patterns/enhance-customer-helpdesk-with-smart-document-understanding-using-search-skill/) |
-| Ibm Service          | Watson Assistant, Watson Discovery |
+| Ibm Service          | IBM Watson Assistant, IBM Watson Discovery |
 | Early Build          | Visual Studio Code |
 
 ------------------------------------------------------------------------------
@@ -42,9 +42,8 @@ Dalam projek ini memiliki batasan yaitu :
 4. Project ini masih bisa dikembangkan lagi, mungkin beberapa pertanyaan kompleks blm terjawab
 
 --------------------------------------------------------------------------------------------------------------
-# Saran Objek 
-#Preview
+# Preview
 ![Screenshot 2023-07-06 011701](https://github.com/Lux17/ChatbotLibrary/assets/59023470/aadbf014-0340-4882-a7f1-f5f8dc2810c0)
-#Website
+
 ![Screenshot 2023-07-06 010834](https://github.com/Lux17/ChatbotLibrary/assets/59023470/373f4a0d-c832-42b3-b585-0d7de724ba0c)
 
