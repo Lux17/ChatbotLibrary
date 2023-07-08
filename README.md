@@ -16,15 +16,14 @@ Projek Capstone Merdeka Belajar Kampus Merdeka (MBKM) Infinite Learning Indonesi
 
 ------------------------------------------------------------------------------
 # Rangkuman 
-Dalam project ini, kita akan menggunakan pustaka Keras untuk mengklasifikasikan gambar-gambar yang dipilih secara acak dari internet. Keras menyederhanakan proses perancangan dan pelatihan model deep learning dengan menyediakan antarmuka tingkat tinggi. Gambar-gambar dari internet akan diambil menggunakan link URL dan diunduh oleh program ini. kita akan menerapkan metode transfer learning. Transfer learning adalah teknik yang memanfaatkan pengetahuan yang diperoleh dari model yang sudah dilatih sebelumnya pada tugas sebelumnya untuk mengklasifikasikan gambar-gambar baru. Pendekatan ini membantu mengurangi waktu dan sumber daya yang dibutuhkan untuk melatih model dari awal. Kita akan menggunakan model EfficientNetV2M yang sudah dilatih sebelumnya untuk tujuan ini.
+Dalam project ini, kita akan menggunakan Watson assistant dan Watson discovery untuk membuat chatbot library Virtual assistant untuk membantu dalam pelayanan diwebsite perpustakaan Universitas Muhammadiyah Cirebon sehinggga dapat menjawab pertanyaan-pertanyaan yang biasa ada di perpustakaan seperti merekomendasikan buku, pendaftaran member baru, peraturan-peraturan apa saja yang ada diperpustakaan, sanksi dll. Dengan chatbot ini diharapkan dapat membantu dan memudahkan pelayanan perpustakaan serta mengimplementasikan teknologi Ai di lingkungan kampus.
 
-Dalam notebook ini kita akan : 
-- Menggunakan model EfficientNetV2M untuk klasifikasi
-- mengimport Liberary yang dibutuhkan
-- Menggunakan link urls gambar yang berkaitan dengan restoran agar di klasifikasi
-- Mengunduh gambar dari link urls dan merubahnya ke num array
-- preproses data menggunakan model EfficientNetV2M
-- Menampilkan hasil prediksi
+Dalam project ini kita akan : 
+- Menggunakan virtual assistant dan watson discovery
+- Memasukan intent dan dialog ke dalam chatbot
+- Melakukan integrasi assistant ke website yang telah dibuat
+- Melakukan uji hasil dari project ini
+- Menampilkan hasil chatbot
 
 # Alur 
 ![enhance-customer-helpdesks-smart-document-understanding-assistant-search-skill (1)](https://github.com/Lux17/ChatbotLibrary/assets/59023470/c75cdd57-aadf-4796-9a74-79502cce31f2)
@@ -37,10 +36,10 @@ Dalam notebook ini kita akan :
 
 # Batasan 
 Dalam projek ini memiliki batasan yaitu : 
-1. Tingkat akurasi mencapai 73%
-2. Gambar harus sesuai format (copy image address)
-3. Link harus di letakan secara manual kedalam kodingan
-4. Tidak ada batasan dalam jenis gambar (bisa diluar konteks restauran). Namun dianjurkan yang sesuai dengan projek
+1. Lingkup project ini perpustakaan dikampus Universitas Muhammadiyah Cirebon
+2. Project ini berfokus dalam pengembangan assistant saja
+3. Data yang dipakai merupakan data real di perpustakaan umc 
+4. Project ini masih bisa dikembangkan lagi, mungkin beberapa pertanyaan kompleks blm terjawab
 
 --------------------------------------------------------------------------------------------------------------
 # Saran Objek 
