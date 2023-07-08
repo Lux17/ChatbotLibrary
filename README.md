@@ -27,7 +27,7 @@ Dalam notebook ini kita akan :
 - Menampilkan hasil prediksi
 
 # Alur 
-![Diagram ](https://github.com/arqualian/image-classification-Capstone-Project/assets/60522938/6ac9d586-95fd-4900-b3c4-ab0fce5672d8)
+![Diagram ]([https://github.com/arqualian/image-classification-Capstone-Project/assets/60522938/6ac9d586-95fd-4900-b3c4-ab0fce5672d8])
 
 
 1. Buat Service Watson Assistant & Discovery.
