@@ -32,7 +32,7 @@ Dalam project ini kita akan :
 2. Konfigurasi Watson Discovery.
 3. Konfigurasikan Watson Assistant.
 5. Tambahkan kredensial layanan Watson ke file website.
-6. Menjalankan pemrograman yang terdapat di [link](https://github.com/Lux17/ChatbotLibrary)
+6. Menjalankan website yang terdapat di [link](https://github.com/Lux17/ChatbotLibrary)
 
 # Batasan 
 Dalam projek ini memiliki batasan yaitu : 
